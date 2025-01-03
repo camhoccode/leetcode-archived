@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-archived",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greatest-common-divisor-of-strings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "git add . && git commit -m Update && git push"
+  },
+  "author": "",
+  "license": "ISC"
+}
